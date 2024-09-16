@@ -11,14 +11,14 @@ body {
 .Header {
   padding: 30px;
   text-align: center;
-  background-color: #050b3d;
+  background-color: #000000;
   color: white;
 }
 
 .navbar {
   padding: 20px;
   text-align: center;
-  Background-color: #65abf1;
+  Background-color: #08f338;
 
   a:hover {
     background-color: #050b3d;
