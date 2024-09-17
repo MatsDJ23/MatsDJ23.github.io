@@ -18,10 +18,10 @@ body {
 .navbar {
   padding: 20px;
   text-align: center;
-  Background-color: #08f338;
+  Background-color: #1DB954;
 
   a:hover {
-    background-color: #050b3d;
+    background-color: #191414;
     color: #ffffff;
     padding: 10px;
   }
