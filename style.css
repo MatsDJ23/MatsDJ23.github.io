@@ -43,7 +43,7 @@ body {
 
 .text{
   display:flex;
-  flex-direction: column;
+  flex: 50% ;
   color: 191414;
   padding:20px;
   background-color: #44a6d8;
