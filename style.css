@@ -43,6 +43,7 @@ body {
 
 .text{
   display: flex;
+  justify-content: center;
   flex-direction: column;
   color: 191414;
   background-color: #44a6d8;
