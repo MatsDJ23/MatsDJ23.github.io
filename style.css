@@ -42,7 +42,7 @@ body {
     color: white;
   }
 
-.text{
+.text a {
   text-aligen: center;
   float: left;
   color: 191414;
