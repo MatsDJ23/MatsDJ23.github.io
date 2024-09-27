@@ -45,6 +45,6 @@ body {
   text-aligen: center;
   float: left;
   color: 191414;
-  background-color: red;
+  background-color: blue;
 } 
   @media screen and (max-width: 700px) {
