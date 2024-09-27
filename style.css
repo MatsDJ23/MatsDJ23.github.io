@@ -6,7 +6,6 @@ html {
 body {
   font-family: 'Ariel', sans-serif;
   diplay: flex;
-  background-color: red;
 }
 
 .Header {
@@ -46,6 +45,6 @@ body {
   text-aligen: center;
   float: left;
   color: 191414;
-  background-color: #44a6d8;
+  background-color: red;
 } 
   @media screen and (max-width: 700px) {
