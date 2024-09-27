@@ -42,9 +42,8 @@ body {
   }
 
 .text{
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
+  text-aligen: center;
+  float: left;
   color: 191414;
   background-color: #44a6d8;
 } 
